@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
-    <title>Icons / Arrow / Caret</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Curation-Starter" stroke="none" stroke-width="1" fill-rule="evenodd">
-        <g id="Landing-page-/-signed-in" transform="translate(-266.000000, -61.000000)">
-            <g id="Icon-/-Arrow-/-Caret-/-Down" transform="translate(265.000000, 56.000000)">
-                <polygon id="Path" transform="translate(8.013961, 6.500000) rotate(45.000000) translate(-8.013961, -6.500000) " points="12.513961 2 12.513961 10 11.513961 11 3.51396103 11 3.51396103 9 10.513961 9 10.513961 2"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="8" version="1.1" viewBox="0 0 14 8"><title>Icons / Arrow / Caret</title><desc>Created with Sketch.</desc><g id="Curation-Starter" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Landing-page-/-signed-in" transform="translate(-266.000000, -61.000000)"><g id="Icon-/-Arrow-/-Caret-/-Down" transform="translate(265.000000, 56.000000)"><polygon id="Path" points="12.514 2 12.514 10 11.514 11 3.514 11 3.514 9 10.514 9 10.514 2" transform="translate(8.013961, 6.500000) rotate(45.000000) translate(-8.013961, -6.500000)"/></g></g></g></svg>
